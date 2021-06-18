@@ -2,7 +2,7 @@
 
 ## Deployment
 
-To deploy this scripts, they first need to be compiled.
+To deploy .cpp scripts, they first need to be compiled.
 So, run
 
 ```bash
