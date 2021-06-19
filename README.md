@@ -1,5 +1,5 @@
 # dailyUseScripts
-Note: ```not all here programs are may not designed for daily use, i didn't come up with a great repo name```
+Note: ```not all programs here are may not designed for daily use, i didn't come up with a great repo name```
 
 ## Deployment
 
